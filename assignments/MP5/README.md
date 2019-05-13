@@ -23,6 +23,7 @@ and part d, it is not necessary to remove it these parts
 
 
 # Notes
+* park_b_ml.py and part_d_ml.py - TODO :Using the new spark.ml package
 *  https://piazza.com/class/jqz0r68mx9863m?cid=682
 * Datacamp on PySpark - https://www.datacamp.com/courses/introduction-to-pyspark.
     * My notes about this course attached PySparkDatacamp.pdf
